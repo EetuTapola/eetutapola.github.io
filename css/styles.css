@@ -1,6 +1,6 @@
 
 body {
-  background-color: bluee;
+  background-color: blue;
   margin: 3%;
 }
 
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  width: auto;
+  width: 25%;
   background-color: yellow;
   padding: 10px;
   border: 3px;
